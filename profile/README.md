@@ -1,4 +1,6 @@
-![hivu-banner](/assets/img/hivu-banner.png)
+<div align="center">
+  <img src="../assets/img/hivu-banner.png" alt="hivu-banner">
+</div>
 
 ---
 
@@ -9,12 +11,12 @@
 <div align="center">
   <p>For more open source projects:</p>
   <a href="https://github.com/hivuequest">
-    <img src="https://img.shields.io/badge/Community-9b75ff?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Community-9b75ff?style=for-the-badge&logo=github&logoColor=white" alt="github">
   </a>
   <a href="https://github.com/hivuequest-examinations">
-    <img src="https://img.shields.io/badge/Examinations-08bb95?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Examinations-08bb95?style=for-the-badge&logo=github&logoColor=white" alt="github">
   </a>
    <a href="https://github.com/hivuequest-solutions">
-    <img src="https://img.shields.io/badge/Solutions-f56060?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Solutions-f56060?style=for-the-badge&logo=github&logoColor=white" alt="github">
   </a>
 </div>
