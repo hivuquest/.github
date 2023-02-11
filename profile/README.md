@@ -8,13 +8,13 @@
 
 <div align="center">
   <p>For more open source projects:</p>
-  <a href="https://github.com/hivuequest">
+  <a href="https://github.com/hivuquest">
     <img src="https://img.shields.io/badge/Community-9b75ff?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
-  <a href="https://github.com/hivuequest-examinations">
+  <a href="https://github.com/hivuquest-examinations">
     <img src="https://img.shields.io/badge/Examinations-08bb95?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
-   <a href="https://github.com/hivuequest-solutions">
+   <a href="https://github.com/hivuquest-solutions">
     <img src="https://img.shields.io/badge/Solutions-f56060?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
 </div>
